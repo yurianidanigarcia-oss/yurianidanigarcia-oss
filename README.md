@@ -1,7 +1,7 @@
 # ¡Hola! Soy Yurian Idani Garcia Batres 👋
 
 ### Sobre mí
-Soy Licenciada en ciencias de la computación y docente con 10 años de experiencia. Actualmente estoy en proceso de capacitación sobre Lógica, Entorno y Estructura Web cuyas expectativas son grandes principalmente adquirir nuevos aprendizajes y a la vez actualizacion siempre buscando aprender nuevas herramientas que optimicen el flujo de trabajo. Me interesa especialmente el desarrollo backend y la arquitectura de bases de datos.
+Soy Licenciada en ciencias de la computación y docente con 10 años de experiencia. Actualmente estoy en proceso de capacitación sobre Lógica, Entorno y Estructura Web cuyas expectativas son grandes principalmente adquirir nuevos aprendizajes y a  la vez actualizacion siempre buscando aprender nuevas herramientas que optimicen el flujo de trabajo. Me interesa especialmente el desarrollo backend y la arquitectura de bases de datos.
 
 ### Tecnologías
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
