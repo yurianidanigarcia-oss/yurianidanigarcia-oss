@@ -16,7 +16,7 @@ Soy Licenciada en ciencias de la computación y docente con 10 años de experien
 ### Proyectos destacados
 
 #### 🚀 Hithub
-Es una aplicación robusta desarrollada con **Laravel y MySQL** que permite la gestión de inventarios, carritos de compra y procesamiento de pagos simulados. Cuenta con un panel administrativo intuitivo y un diseño responsivo.
+Un proyecto donde se aprende a crear y personalizar tu perfil de GitHub es perfecto para demostrar que se domina el entorno de desarrollo y la marca personal.
 * [Ver Repositorio](https://github.com/yurianidanigarcia-oss/yurianidanigarcia-oss)
 
 ---
@@ -25,5 +25,5 @@ Es una aplicación robusta desarrollada con **Laravel y MySQL** que permite la g
 ¡Hablemos! Puedes encontrarme en:
 
 * **LinkedIn:** [Mi Perfil de LinkedIn]( https://sv.linkedin.com/in/yuri-garcia-180a95b0)
-* **Email:** [tu-correo@ejemplo.com](yurian.idani.garcia@clases.edu.sv)
+* **Email:** [tu-correo@ejemplo.com](mailto:yurian.idani.garcia@clases.edu.sv)
 
