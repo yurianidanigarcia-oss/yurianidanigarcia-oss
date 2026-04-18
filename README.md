@@ -25,5 +25,5 @@ Un proyecto donde se aprende a crear y personalizar tu perfil de GitHub es perfe
 ¡Hablemos! Puedes encontrarme en:
 
 * **LinkedIn:** [Mi Perfil de LinkedIn]( https://sv.linkedin.com/in/yuri-garcia-180a95b0)
-* **Email:** [tu-correo@ejemplo.com](mailto:yurian.idani.garcia@clases.edu.sv)
+* **Email:** [Correo electrónico](mailto:yurian.idani.garcia@clases.edu.sv)
 
