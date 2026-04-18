@@ -15,9 +15,9 @@ Soy Licenciada en ciencias de la computación y docente con 10 años de experien
 
 ### Proyectos destacados
 
-#### 🚀 Sistema de Gestión E-commerce
+#### 🚀 Hithub
 Es una aplicación robusta desarrollada con **Laravel y MySQL** que permite la gestión de inventarios, carritos de compra y procesamiento de pagos simulados. Cuenta con un panel administrativo intuitivo y un diseño responsivo.
-* [Ver Repositorio](https://github.com/tu-usuario/nombre-del-proyecto)
+* [Ver Repositorio](https://github.com/yurianidanigarcia-oss/yurianidanigarcia-oss)
 
 ---
 
