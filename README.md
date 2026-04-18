@@ -22,5 +22,8 @@ Es una aplicación robusta desarrollada con **Laravel y MySQL** que permite la g
 ---
 
 ### Contacto
-* **LinkedIn:** [linkedin.com/in/tu-perfil](Echa un vistazo al perfil de Yuri Garcia en LinkedIn https://sv.linkedin.com/in/yuri-garcia-180a95b0)
-* **Correo electrónico:** [tu-email@ejemplo.com](yurian.idani.garcia@clases.edu.sv)
+¡Hablemos! Puedes encontrarme en:
+
+* **LinkedIn:** [Mi Perfil de LinkedIn]( https://sv.linkedin.com/in/yuri-garcia-180a95b0)
+* **Email:** [tu-correo@ejemplo.com](yurian.idani.garcia@clases.edu.sv)
+
